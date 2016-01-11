@@ -1,2 +1,2 @@
 # orginizer
-place 
+file orginizing program
